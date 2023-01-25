@@ -11,6 +11,7 @@ critglove = cv2.imread('Item_Images/critglove.png', cv2.IMREAD_UNCHANGED)
 negatron = cv2.imread('Item_Images/negatron3d.png', cv2.IMREAD_UNCHANGED)
 
 #annie = Character(2, [warmogs, gargoyle, dragonsClaw], ["spellslinger", "gadgeteen", "oxforce"])
+#bini
 
 #Character Template Test
 # nilah = cv2.imread('Character_Images/nilah.png', cv2.IMREAD_UNCHANGED)
