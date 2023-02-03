@@ -1,7 +1,8 @@
-class Character:
-    def _init_(self, cost, idealItems, traits):
+class Character:   #Took out traits variable for now, if needed add later
+    def __init__(self, charImage, cost, idealItems):
         self.cost = cost
         self.idealItems = idealItems
-        self.traits = traits
+        #self.traits = traits
+        self.charImage = charImage
 
 
